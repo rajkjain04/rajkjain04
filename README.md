@@ -6,6 +6,10 @@ I recently graduated with a First-Class Honours in MEng Electrical and Electroni
 
 ⚡️ Outside of work, I go to the gym 🏋️‍♂️, train at Barry's 🏃‍♂️ and watch podcasts 📺 
 
+I also enjoy solving Leetcode questions and improving my DSA skills. 
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rajjain0499)](https://leetcode.com/rajjain0499)
+
 ## 📫 Let's connect 🙌 
 
 <div style="inline-block">
