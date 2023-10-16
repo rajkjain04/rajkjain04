@@ -6,9 +6,7 @@ I recently graduated with a First-Class Honours in MEng Electrical and Electroni
 
 ⚡️ Outside of work, I go to the gym, train at Barry's and watch podcasts! 
 
-## 📫 How to reach me
-
-Let's connect! 🙌
+## 📫 Let's connect 🙌 
 
 <div style="inline-block">
     <a href="https://www.linkedin.com/in/rajkjain/">
