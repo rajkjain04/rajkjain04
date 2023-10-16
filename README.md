@@ -2,7 +2,7 @@
 
 I'm currently a mid-level Full Stack Software Engineer at [Credera UK](https://www.credera.co.uk/) working with Insurance and Financial Services clients. Credera is a global boutique consulting firm specialising in Data, Strategy, Transformation and AI. 
 
-I recently graduated with a First-Class Honours in MEng Electrical and Electronic Engineering from [Imperial College London](https://imperial.ac.uk/).
+🎓 I recently graduated with a First-Class Honours in MEng Electrical and Electronic Engineering from [Imperial College London](https://imperial.ac.uk/).
 
 ⚡️ Outside of work, I go to the gym 🏋️‍♂️, train at [Barry's](https://www.barrys.com/) 🏃‍♂️ and watch podcasts 📺 
 
