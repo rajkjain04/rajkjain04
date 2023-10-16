@@ -4,7 +4,7 @@ I'm currently a mid-level Full Stack Software Engineer at [Credera UK](https://w
 
 I recently graduated with a First-Class Honours in MEng Electrical and Electronic Engineering from [Imperial College London](https://imperial.ac.uk/).
 
-⚡️ Outside of work, I go to the gym 🏋️‍♂️, train at Barry's 🏃‍♂️ and watch podcasts 📺 
+⚡️ Outside of work, I go to the gym 🏋️‍♂️, train at [Barry's](https://www.barrys.com/) 🏃‍♂️ and watch podcasts 📺 
 
 🧑‍💻 I also enjoy solving Leetcode questions and improving my DSA skills. 
 
