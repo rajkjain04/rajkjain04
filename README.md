@@ -19,7 +19,7 @@ I recently graduated with a First-Class Honours in MEng Electrical and Electroni
 
 ## 🛠 Skills
 
-I have gained exposure to a wide variety of technologies across the stack. 
+Through my experiences at [Credera UK](https://www.credera.co.uk/), [THG](https://www.thg.com) and [HSBC](https://www.hsbc.com), I have gained exposure to a wide variety of technologies across the stack. 
 
 <div style="inline-block">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
