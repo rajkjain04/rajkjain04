@@ -1,16 +1,16 @@
 # Hi, I'm Raj 👋
 
-I'm currently a mid-level Full Stack Software Engineer at [Credera UK](https://www.credera.co.uk/) working with Insurance and Financial Services clients. Credera is a global boutique consulting firm specialising in Data, Strategy, Transformation and AI. 
+I'm currently a mid-level Full Stack Software Engineer at [Credera UK](https://www.credera.co.uk/) working with Insurance and Financial Services clients. Credera is a global boutique consulting firm specialising in Data, Strategy, Transformation and AI.
 
 🎓 I recently graduated with a First-Class Honours in MEng Electrical and Electronic Engineering from [Imperial College London](https://imperial.ac.uk/).
 
-⚡️ Outside of work, I go to the gym 🏋️‍♂️, train at [Barry's](https://www.barrys.com/) 🏃‍♂️ and watch podcasts 📺 
+⚡️ Outside of work, I go to the gym 🏋️‍♂️, train at [Barry's](https://www.barrys.com/) 🏃‍♂️ and watch podcasts 📺
 
-🧑‍💻 I also enjoy solving Leetcode questions and improving my DSA skills. 
+🧑‍💻 I also enjoy solving Leetcode questions and improving my Data Structures and Algorithms skills.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/rajjain0499)](https://leetcode.com/rajjain0499)
 
-## 📫 Let's connect 🙌 
+## 📫 Let's connect 🙌
 
 <div style="inline-block">
     <a href="https://www.linkedin.com/in/rajkjain/">
@@ -23,7 +23,7 @@ I'm currently a mid-level Full Stack Software Engineer at [Credera UK](https://w
 
 ## 🛠 Skills
 
-Through my experiences at [Credera UK](https://www.credera.co.uk/), [THG](https://www.thg.com) and [HSBC](https://www.hsbc.com), I have gained exposure to a wide variety of technologies across the stack. 
+Through my experiences at [Credera UK](https://www.credera.co.uk/), [THG](https://www.thg.com) and [HSBC](https://www.hsbc.com), I have gained exposure to a wide variety of technologies across the stack.
 
 <div style="inline-block">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
