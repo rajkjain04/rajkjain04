@@ -6,10 +6,6 @@ I'm currently a mid-level Full Stack Software Engineer at [Credera UK](https://w
 
 ⚡️ Outside of work, I go to the gym 🏋️‍♂️, train at [Barry's](https://www.barrys.com/) 🏃‍♂️ and watch podcasts 📺
 
-🧑‍💻 I also enjoy solving Leetcode questions and improving my Data Structures and Algorithms skills.
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rajjain0499)](https://leetcode.com/rajjain0499)
-
 ## 📫 Let's connect 🙌
 
 <div style="inline-block">
