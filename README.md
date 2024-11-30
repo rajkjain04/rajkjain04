@@ -1,6 +1,7 @@
 # Hi, I'm Raj 👋
 
-I'm currently a mid-level Full Stack Software Engineer at [Credera UK](https://www.credera.co.uk/) working with Insurance and Financial Services clients. Credera is a global boutique consulting firm specialising in Data, Strategy, Transformation and AI.
+I'm currently a Software Engineer II at [Tripadvisor London](https://www.tripadvisor.com) working on the B2B platforms for [Viator](https://www.viator.com). 
+Viator is an online travel agency, owned by Tripadvisor, that offers over 300,000 travel experiences including tours, attractions, excursions and private guides. 
 
 🎓 I recently graduated with a First-Class Honours in MEng Electrical and Electronic Engineering from [Imperial College London](https://imperial.ac.uk/).
 
